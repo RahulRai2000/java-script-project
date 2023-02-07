@@ -1,0 +1,372 @@
+.header{
+    border: 1px solid black;
+    display: flex;
+    width: auto;
+    height: 50px;
+    background-color:  #032154;
+}
+.icon{
+    display: flex;
+    width:18px;
+    padding-top: 12px;
+    margin-left: 55px;
+    font-size: 18px;
+    color: white;
+}
+.header1{
+    display: flex;
+    padding-top: 11px;
+    margin-left: 5px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.icon1{
+    padding-top: 14px;
+    margin-left: 5px;
+    width: 25px;
+    height: 18px;
+}
+.option{
+    height: 18px;
+    padding-top: 13px;
+    margin-left: 5px;
+    font-size: 18px;
+    color: white;
+}
+.header10{
+    display: flex;
+    padding-top: 13px;
+    margin-left: 740px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+a{ 
+    color: white;
+    font-size: 17px;
+    margin-left: 10px;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+.header2{
+    display: flex;
+    width: auto;
+    height: 150px;
+}
+.header20{
+    display: flex;
+    padding-top:50px;
+    margin-left: 80px;
+}
+.header200{
+    display: flex;
+    padding-top:20px;
+    margin-left: 225px;
+}
+.header2000{
+    display: flex;
+    padding-top:50px;
+    margin-left: 170px;
+}
+.heading1{
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Nav{
+    display: flex;
+    background-color: #032154;
+    padding-left: 50px;
+    color: white;
+    width: auto;
+    height: 65px;
+}
+.Nav1{
+    width: 120px;
+    list-style-type: none;
+    color: white;
+    font-size: 17px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 65px;
+    text-align: center;
+}
+.Nav2:hover{
+    background-color:#f2db18;
+}
+.icon2{
+    font-size: 23px;
+    line-height: 70px;
+    margin-left: 120px;
+}
+.button{
+    background-color: #f2db18;
+    color: white;
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    list-style-type: none;
+    line-height: 50px;
+    margin-top: 8px;
+    margin-left: 90px;
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button:hover{
+    background-color: black;
+}
+.header3{
+    border: 1px solid black;
+    background:url("D:/WEB DEVELOPMENT/PROJECT'S/PORTFOLIO/images/banner.jpg");
+    /* background: url(../images/banner.jpg); */
+    width: 1245px;
+    height: 750px;
+}
+.header30{
+    float: left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 120px 0px 0px 30px;
+}
+.header300{
+    float: left;
+    margin:61px 70px 0px 50px;
+}
+.para1{
+    width: auto;
+    height: 600px;
+}
+.para10{
+    float: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 80px 0px 0px 40px;
+}
+.button1{
+    background-color: #f2db18;
+    color: white;
+    width: 178px;
+    height: 50px;
+    margin:0px 0px 0px 20px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.icon3{
+    float: left;
+    width: 460px;
+    height: 300px;
+    margin: 90px 40px 0px 30px;
+}
+.para2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 40px 0px 0px 40px;
+}
+.para20{
+    width: auto;
+    display: flex;
+    margin-top: 40px;
+}
+.pictures{
+    margin: 20px 0px 0px 40px;
+    width: 350px;
+    height: 170px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.para200{
+    width: auto;
+    display: flex;
+}
+.ture:hover{
+    color: #f2db18;
+}
+.readmore{
+    margin: 40px 550px 0px 550px;
+    font-size: 25px;
+    color: #f2db18;
+    font-family:'Lucida Sans','Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.para3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 60px 0px 0px 40px;
+}
+.pictures1{
+    margin: 40px 0px 0px 20px;
+}
+.picture1{
+    width: 270px;
+    height: 300px;
+    padding-left:20px ;
+}
+.para4{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 60px 0px 0px 40px;
+}
+.pictures2{
+    display: flex;
+    margin: 40px 0px 0px -85px;
+    width: 250px;
+    height: 68px;
+}
+.picture2{
+    display: flex;
+    padding-left:120px ;
+}
+.ture2{
+    width: 100px;
+    height: 200px;
+}
+.para5{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 60px 0px 0px 40px;
+}
+.pictures3{
+    display: flex;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 60px 0px 0px 10px;
+}
+.picture3{
+    margin-left: 80px;
+    border:15px solid gray;
+    border-radius: 220px;
+}
+.para6{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 60px 0px 0px 380px;
+}
+.para60{
+    border: 1px solid #f2db18;
+    padding-left: 20px;
+    margin:60px 0px 0px 330px;
+    width: 600px;
+}
+.para600{
+    display: flex;
+    margin:40px 0px 0px 330px;
+}
+.para7{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 100px 0px 0px 440px;
+    font-size: 18px;
+}
+.para70{
+    margin: 100px 0px 0px 300px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+input{
+    font-size:18px;
+    margin-top: 10px;
+    border: none;
+    width: 700px;
+    border-bottom: 1px solid black;
+}
+textarea{
+    border-bottom: 1px solid black;
+    border:none;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom: 1px solid black;
+}
+button{
+    border: 1px solid #f2db18;
+    border-radius: 100px;
+    background-color: #f2db18;
+    color: white;
+    font-size: 20px;
+    width: 200px;
+    height: 60px;
+    margin: 30px 0px 0px 240px;
+}
+.footer1{
+    border: 1px solid black;
+    background:url("D:/WEB DEVELOPMENT/PROJECT'S/PORTFOLIO/images/footer_bg.jpg");
+    width: auto;
+    height: 450px;
+    margin: 100px 0px 0px 0px;
+}
+.footer10{
+    margin: 65px 0px 0px 40px;
+    width: auto;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footers{
+    display: flex;
+}
+.footers1{
+    float: left;
+    color: white;
+    margin: 25px 0px 0px 20px;
+    width: 550px;
+}
+.footers10{
+    float: left;
+    list-style: none;
+    line-height: 25px;
+    padding-left:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footericon{
+    clear: left;
+    margin:100px 0px 0px 10px;
+
+}
+.footers20{
+    width: 200px;
+    color: white;
+    list-style-type:none ;
+    margin: -60px 0px 0px 0px;
+    line-height: 30px;
+    padding-left: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footers200{
+    color: white;
+    list-style-type:none ;
+    margin: -60px 0px 0px 40px;
+    line-height: 30px;
+    padding-left: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footerinput{
+    width: 230px;
+    height: 40px;
+    border-radius: 7px;
+}
+.footerbutton{
+    width: 150px;
+    height: 40px;
+    margin: 15px 0px 0px -5px;
+}
+.footerend{
+    margin: 20px 0px 0px 445px;
+    font-size: 20px;
+    color: #032154;
+}
+
+
+@media only screen and (max-width: 600px) {
+    
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+   
+  } 
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    
+  }
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    
+  }
